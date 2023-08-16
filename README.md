@@ -1,4 +1,3 @@
-
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8" alt="romansi97" /></a> </p>
 <hr>
 
@@ -6,12 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&weight=800&size=30&duration=4000&pause=1000&color=000000&center=true&multiline=true&width=435&height=75&lines=Hi+%F0%9F%91%8B%2C+I'm+Rom%C3%A1n+Ricciardi.;%F0%9F%92%BB+Full+Stack+Developer+%F0%9F%92%BB" alt="Typing SVG" /></a>
 </div>
 
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romansi97&label=Profile%20views&color=0e75b6&style=flat" alt="romansi97" width="130"/> </p>
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
